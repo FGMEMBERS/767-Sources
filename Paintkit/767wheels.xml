@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+
+<animation>	
+  <name>NoseGears</name>
+    <object-name>LTirenoseGear</object-name>
+    <object-name>RTirenoseGear</object-name>
+    <object-name>LWhellnoseGear</object-name>
+    <object-name>RWhellnoseGear</object-name>
+    <object-name>FAbarNG</object-name>
+    <object-name>FCbarNG</object-name>
+    <object-name>FB3barNG</object-name>
+    <object-name>FB4barNG</object-name>
+    <object-name>FFbarNG</object-name>
+    <object-name>FFbarNG.001</object-name>
+    <object-name>FL1barNG</object-name>
+    <object-name>FR1barNG</object-name>
+    <object-name>Fl1barNG.001</object-name>
+    <object-name>FR1barNG.001</object-name>
+</animation>
+
+<animation>
+  <name>NoseGearRightDoor</name>
+  <object-name>GDR</object-name>
+</animation>
+
+<animation>
+  <name>NoseGearLeftDoor</name>
+  <object-name>LdoorNoseGear</object-name>
+</animation>
+
+<animation>
+    <name>LeftWingGears</name>
+      <object-name>LFtrimTire1</object-name>
+      <object-name>LFtrimTire2</object-name>
+      <object-name>LBtrimTire1</object-name>
+      <object-name>LBtrimTire2</object-name>
+      <object-name>LFtrimWhell1</object-name>
+      <object-name>LFtrimWhell2</object-name>
+      <object-name>LBtrimWhell1</object-name>
+      <object-name>LBtrimWhell2</object-name>
+      <object-name>Ltrimpiece7</object-name>
+      <object-name>Ltrimpiece8</object-name>
+      <object-name>LmeEixo.001</object-name>
+      <object-name>Ltrimpiece3</object-name>
+      <object-name>Ltrimpiece2</object-name>
+      <object-name>Ltrimpiece4</object-name>
+      <object-name>Ltrimpiece1.001</object-name>
+      <object-name>Ltrimpiece9</object-name>
+      <object-name>LmiEixo</object-name>
+      <object-name>LiEixo1</object-name><
+      <object-name>LiEixo1.001</object-name>
+      <object-name>LmeEixo</object-name>
+      <object-name>Ltrimpiece1</object-name>
+      <object-name>LiEixo2</object-name>
+</animation>
+
+<animation>
+   <name>RightWingGears</name></object-name>
+      <object-name>RFtrimTire1</object-name>
+      <object-name>RFtrimTire2</object-name>
+      <object-name>RBtrimTire1</object-name>
+      <object-name>RBtrimTire2</object-name>
+      <object-name>RFtrimWhell1</object-name>
+      <object-name>RFtrimWhell2</object-name>
+      <object-name>RBtrimWhell1</object-name>
+      <object-name>RBtrimWhell2</object-name>
+      <object-name>Rtrimpiece7</object-name>
+      <object-name>Rtrimpiece8</object-name>
+      <object-name>RmeEixo</object-name>
+      <object-name>Rtrimpiece9</object-name>
+      <object-name>Rtrimpiece4</object-name>
+      <object-name>Rtrimpiece3</object-name>
+      <object-name>Rtrimpiece2</object-name>
+      <object-name>RmiEixo</object-name>
+      <object-name>RmeEixo.001</object-name>
+      <object-name>RiEixo1</object-name>
+      <object-name>RiEixo2</object-name>
+      <object-name>Rtrimpiece1</object-name>
+      <object-name>Rtrimpiece8.001</object-name>
+      <object-name>Rtrimpiece1.001</object-name>
+      <object-name>RiEixo2.00.1</object-name>
+</animation>
+
